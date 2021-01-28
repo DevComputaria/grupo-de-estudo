@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="http://www.fgf.edu.br/wp-content/themes/fgf-28-05-2013_RESPONSIVO/images/fgf-faculdade-integrada-da-grande-fortaleza.png">
+<img src="https://github.com/DevComputaria/Forum/blob/main/data/78062339.jpg?raw=true">
 </p>
 <h1 align="center">Grupo de Estudo</h1>
-<p align="center">:book: Local para treinar e estudar em grupo na comunidade de aluno da FGF</p>
+<p align="center">:book: Local para treinar e estudar em grupo na comunidade de DevComputaria</p>
 
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
